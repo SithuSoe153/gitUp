@@ -1,0 +1,85 @@
+{ "compressionlevel":-1,
+ "height":20,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309,
+            2337, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2339, 2367, 2367,
+            2279, 2309, 2309, 2339, 2367, 2337, 2309, 2309, 2309, 2309, 2339, 2367, 2367, 2367, 2367, 2367, 2337, 2281, 2251, 2251,
+            2367, 2367, 2337, 2281, 2251, 2279, 2309, 2309, 2309, 2339, 2340, 2278, 2251, 2251, 2251, 2251, 2279, 2309, 2309, 2339,
+            2250, 2251, 2279, 2309, 2309, 2309, 2309, 2309, 2309, 2281, 2251, 2279, 2309, 2309, 2309, 2309, 2339, 2367, 2367, 2340,
+            2279, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2281, 2251, 2251, 2251,
+            2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2339, 2367, 2367, 2367, 2337, 2309, 2309, 2309, 2309,
+            2367, 2367, 2367, 2337, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2281, 2251, 2251, 2252, 2307, 2339, 2367, 2367, 2367,
+            2251, 2251, 2251, 2279, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2281, 2279, 2281, 2251, 2251, 2251,
+            2309, 2339, 2337, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309,
+            2337, 2281, 2279, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2339, 2367, 2367,
+            2336, 2367, 2337, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2281, 2251, 2251,
+            2251, 2251, 2279, 2309, 2309, 2309, 2309, 2309, 2339, 2367, 2367, 2367, 2367, 2367, 2337, 2339, 2367, 2337, 2339, 2367,
+            2337, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2281, 2251, 2251, 2251, 2251, 2251, 2279, 2281, 2251, 2279, 2281, 2251,
+            2279, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2339, 2367, 2367, 2367, 2367,
+            2367, 2337, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2281, 2251, 2251, 2251, 2251,
+            2251, 2279, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2309, 2339, 2337, 2339, 2367, 2367, 2367, 2367, 2337,
+            2337, 2309, 2309, 2309, 2309, 2309, 2339, 2367, 2367, 2367, 2367, 2337, 2281, 2279, 2311, 2250, 2251, 2251, 2251, 2279,
+            2307, 2309, 2309, 2309, 2309, 2309, 2281, 2251, 2251, 2251, 2251, 2279, 2309, 2309, 2281, 2279, 2309, 2309, 2309, 2309,
+            2366, 2367, 2367, 2367, 2367, 2367, 2367, 2367, 2337, 2309, 2309, 2309, 2309, 2309, 2309, 2339, 2367, 2367, 2367, 2367],
+         "height":20,
+         "id":41,
+         "name":"ground",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":42,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.10.1",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/OneDrive - KMD Institute\/LTE\/powerpoint\/EPIC RPG World Pack - [FREE Demo]Ancient Ruins\/EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia\/TiledMap Editor\/Terrain - Ancient Ruins.tsx"
+        }, 
+        {
+         "firstgid":2092,
+         "source":"..\/OneDrive - KMD Institute\/LTE\/powerpoint\/EPIC RPG World Pack - [FREE Demo]Ancient Ruins\/EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia\/TiledMap Editor\/Ancient Ruins-Tileset-wall-8.tsx"
+        }, 
+        {
+         "firstgid":2162,
+         "source":"..\/OneDrive - KMD Institute\/LTE\/powerpoint\/EPIC RPG World Pack - [FREE Demo]Ancient Ruins\/EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia\/TiledMap Editor\/Tileset-Animated Terrains-8 frames--.tsx"
+        }, 
+        {
+         "columns":10,
+         "firstgid":2423,
+         "image":"..\/OneDrive - KMD Institute\/LTE\/powerpoint\/EPIC RPG World Pack - [FREE Demo]Ancient Ruins\/EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia\/Tilesets\/wall-8 - 2 tiles tall.png",
+         "imageheight":224,
+         "imagewidth":320,
+         "margin":0,
+         "name":"wall-8 - 2 tiles tall",
+         "spacing":0,
+         "tilecount":70,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":2493,
+         "image":"..\/OneDrive - KMD Institute\/LTE\/powerpoint\/EPIC RPG World Pack - [FREE Demo]Ancient Ruins\/EPIC RPG World Pack - [FREE Demo]Ancient Ruins - Copia\/Props\/Atlas-Props.png",
+         "imageheight":416,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Atlas-Props",
+         "spacing":0,
+         "tilecount":208,
+         "tileheight":32,
+         "tilewidth":32
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":"1.10",
+ "width":20
+}
